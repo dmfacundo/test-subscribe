@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.18.1)
+    minitest-silence (0.2.4)
+      minitest (~> 5.12)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  minitest (~> 5.18)
+  minitest-silence
+
+BUNDLED WITH
+   2.4.12
